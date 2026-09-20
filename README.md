@@ -83,6 +83,7 @@ This structure separates the data preparation, analytical work, and final presen
 ---
 
 # 1. Data Sheet
+![Data Professional Survey Dashboard](Data-section.png)
 
 The **Data** sheet contains the underlying sales dataset used throughout the project.
 
