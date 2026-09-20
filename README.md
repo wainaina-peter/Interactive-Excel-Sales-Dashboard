@@ -274,6 +274,7 @@ These calculated fields provide a stronger foundation for the analysis and dashb
 # 2. Analysis Sheet
 
 The **Analysis** sheet is where the main analytical work takes place.
+![Data Professional Survey Dashboard](Analysis-section.png)
 
 Rather than building the dashboard directly from the raw dataset, I created supporting analysis tables and KPIs first.
 
@@ -394,6 +395,7 @@ Revenue tells us which categories or markets generate money, while units sold he
 # 3. Dashboard
 
 The **Dashboard** sheet is the final presentation layer of the project.
+![Data Professional Survey Dashboard](Dashboard-section.png)
 
 The goal was to transform the analysis into a simple interface that allows a user to understand the business without having to work through the underlying calculations.
 
